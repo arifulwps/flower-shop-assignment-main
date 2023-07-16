@@ -1,0 +1,161 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.banner{
+    padding: 198px 29px 0px 240px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+    
+.buti{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFFFFF;
+    border: 0;
+    
+}
+.banner-con{
+
+    max-width: 520px;
+}
+.banner-tit{
+     color: #272727;
+    font-size: 60px;
+    font-weight: 900px;
+    margin-top: 5px;
+    margin-bottom: 20px; 
+}
+.banner-p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+}
+.Love{
+   width: 400px;
+    height: 500px;
+    
+}
+.tittle{
+    text-align: center;
+    margin-top: 500px;
+    width: 50%;
+    margin: auto;
+}
+.fortand-tittle{
+    text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  margin-top: 140px;
+  margin-bottom: auto;
+}
+.fortand-pra{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+}
+.flower-sonder{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 150px;
+}
+.flower-adorn{
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+    
+}
+.flower-adorn-2{
+     border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+}
+.flower-adorn-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+}
+.floer-img-1{
+     padding: 110px 80px 0px 80px;
+}
+.floer-img-2{
+    padding: 110px 80px 0px 80px;
+}
+.flower-adorn-3{
+    padding: 110px 80px 0px 80px ;
+}
+.flower-text{
+    color: #272727;
+    font-size: 20px
+}
+.floer-sale{
+    background: rgba(229, 84, 115, 0.05);
+    width: 1920px;
+    height: 620px;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 150px;
+    display: flex;
+    
+    margin: auto;
+}
+.floer-title{
+    padding: 300px 300px 300px 235px;
+}
+.flower-img{
+    
+    padding: 300px 300px 235px 300px;
+} 
+.midia{
+    text-align: center;
+    margin-top: 100px;
+} 
+.midia-tittle {
+    color: #272727;
+    
+    font-size: 20px;
+
+} 
+.social-des{
+     color: rgba(39, 39, 39, 0.60);
+    font-size: 13px;
+    line-height: 30px;
+}
+.midia-img{
+    width: 81%;
+    margin: auto;
+    margin-top: 47px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer{
+     text-align: center;
+}
+.footer-p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 230px 0px 230px;
+}
+.copy-wright{
+    olor: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
